@@ -1,0 +1,65 @@
+.row-1,
+.row-2,
+.row-3 {
+  display: flex;
+}
+.div-title,
+.div-firstname,
+.div-lastname,
+.div-dateofbirth,
+.div-email,
+.div-password,
+.div-confirmpassword,
+.div-checkbox {
+  padding: 3px;
+}
+.register-button {
+  margin: 3px;
+  padding: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: whitesmoke;
+  background-color: rgb(65, 123, 211);
+  border-radius: 3px;
+}
+
+.reset-button {
+  margin: 3px;
+  padding: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: whitesmoke;
+  background-color: rgb(134, 130, 130);
+  border-radius: 3px;
+}
+.form {
+  margin: 60px 15% 20px 120px;
+  padding: 8px 8px 8px 8px;
+  border: 1px solid black;
+  border-radius: 3px;
+  width: 450px;
+}
+.title-dropdown {
+  padding-left: 3px;
+  padding-right: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.input-dateofbirth,
+.input-email {
+  padding-left: 4px;
+  padding-right: 47px;
+}
+.input-email,
+.input-firstname,
+.input-lastname {
+  padding-top: 4px;
+}
+.input-password,
+.input-confirmpassword {
+  padding-top: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.input-confirmpassword {
+  padding-left: 24px;
+  padding-right: 24px;
+}
