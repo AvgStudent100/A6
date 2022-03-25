@@ -1,0 +1,81 @@
+.div-welcome {
+    display: flex;
+    justify-content: center;
+  }
+  .div-already-registered {
+    position: absolute;
+    box-sizing: border-box;
+    margin-left: 360px;
+    padding-right: 35px;
+    border-right: 1px solid grey;
+  }
+  
+  .div-new-customer {
+    position: absolute;
+  
+    box-sizing: border-box;
+    margin-left: 550px;
+    margin-right: 380px;
+    padding-left: 10%;
+  }
+  .input-email-1,
+  .input-email-2,
+  .input-password-2,
+  .confirm-password-2 {
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 65px;
+  }
+  .input-password-1 {
+    margin-bottom: 2px;
+    font-family: sans-serif;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 65px;
+  }
+  h1,
+  h3 {
+    color: rgb(52, 59, 91);
+  }
+  label {
+    color: grey;
+  }
+  .signin-button {
+    margin-top: 10px;
+    padding-right: 97px;
+    padding-left: 97px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(52, 59, 91);
+    color: white;
+  }
+  .radio-remember {
+    margin-left: 65px;
+  }
+  a {
+    padding-left: 65px;
+    text-decoration: none;
+    color: grey;
+    font-family: sans-serif;
+  }
+  .create-account-button {
+    margin-top: 10px;
+    padding-right: 61px;
+    padding-left: 61px;
+    margin-bottom: 2px;
+    border-radius: 15px;
+    background-color: rgb(52, 59, 91);
+    color: white;
+  }
+  .forgot-password {
+    margin-left: 72px;
+    font-size: small;
+  }

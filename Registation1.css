@@ -1,0 +1,32 @@
+.reg{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(78, 76, 76);
+    height: 400px;
+    width: 300px;
+    margin: 25px;
+    border-radius: 6px;
+    justify-content: space-between;
+}
+.name{
+    color: crimson;
+    margin: 10px;
+    
+}
+.color{
+    background-color: rgb(6, 196, 32);
+    color: antiquewhite;
+    margin-left: 190px;
+ padding: 5px;
+}
+.box{
+    padding:2px;
+    margin:10px ;
+    width: 100px;
+    margin-top: 20px;
+
+}
+.box1{
+    width: 250px;
+    margin: 10px;
+}
