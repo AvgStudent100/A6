@@ -1,0 +1,30 @@
+.btnplus{
+    border-radius:90%;
+}
+.main{
+    
+    background-color:purple ;
+    display: flex;
+    height: max-content;
+}
+.main1{
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left :150px;
+    margin-right: 150px;
+    margin-bottom :100px;
+    background-color: aliceblue;
+    border-radius: 5px;
+  }
+.subdiv2{
+    border: 1px black;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.subdiv4{
+    height: fit-content;
+    width: fit-content;
+}
