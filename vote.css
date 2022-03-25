@@ -1,0 +1,8 @@
+.vote{
+    display: flex;
+    flex-direction: column;
+    border: 300px;
+    justify-content:space-between;
+    background-color: aquamarine;
+    width: fit-content;
+}
